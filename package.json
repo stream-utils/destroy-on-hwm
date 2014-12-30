@@ -6,12 +6,12 @@
   "license": "MIT",
   "repository": "stream-utils/destroy-on-hwm",
   "dependencies": {
-    "destroy": "^1.0.3"
+    "destroy": "1"
   },
   "devDependencies": {
     "istanbul": "0",
     "mocha": "2",
-    "readable-stream": "^1.0.33"
+    "readable-stream": "1"
   },
   "scripts": {
     "test": "mocha --reporter spec",
