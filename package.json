@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "stream-utils/destroy-on-hwm",
   "dependencies": {
-    "destroy": "1"
+    "destroy": "1.0.4"
   },
   "devDependencies": {
     "istanbul": "0",
